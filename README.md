@@ -6,6 +6,7 @@ maximize the sum total of the values of the objects put into the container.
 fill up the container so that the total weight is less than or equal to the container's capacity.
 This well-known optimization problem is known as the knapsack problem. To solve this problem on a D-Wave system, we reformulate it as a quadratic unconstrained binary optimization problem (QUBO).
 
+
 Usage
 To run a small demo, run the command:
 python knapsack.py data/small.csv 50
