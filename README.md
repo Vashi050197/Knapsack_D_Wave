@@ -9,5 +9,6 @@ This well-known optimization problem is known as the knapsack problem. To solve 
 
 Usage
 To run a small demo, run the command:
+
 python knapsack.py data/small.csv 50
 
